@@ -1,0 +1,14 @@
+1 - Após a última versão do nodejs estar instalada, devemos abrir a pasta do projeto.
+2 - Na pasta do projeto entramos com o seguinte comando "npx create-react-app 'nome-projeto'".
+
+Obs:Agora existe uma nova maneira de iniciar um projeto que é utilizando VITE.
+    Ele é mais rápida e tem ganhado preferência dos desenvolvedores. O projeto hello-world-2 é criado dessa forma.
+    1 - Crie um projeto com o comando "npm create vite@latest".
+    2 - Seremos guiados através de opções na linha de comando.
+    3 - Mudamos para a pasta do projeto e executamos o comando "npm install" e em seguinda "npm run dev".
+    4 - Um servidor será iniciado em localhost:5173
+
+3 - Após a instalação/criação do projeto, mudamos para dentro da pasta utilizando o comando "cd 'diretorio'".
+4 - Dentro da pasta do programa startamos o servidor react o comando "npm start".
+    4.1 - Talvez seja necessário rodar o comando "npm install ajv@latest ajv-keywords@latest" para atualizar o módulo ajv.
+5 - Um servidor react irá iniciar em localhost:3000

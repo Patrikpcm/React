@@ -1,0 +1,11 @@
+node_modules:   Onde as dependências do projeto ficam. 
+                Essa pasta pode ser excluída a qualquer momento por ser muito grande.
+                Não escrevemos código aqui dentro.
+
+public:         Assets estáticos e HTML de inicialização. Ex: Fav icon, title da página, etc
+
+src:            Onde vamos programar as nossas apps;
+
+src/index.js:   Arquivo de inicialização do React;
+
+src/App.js:     Componente principal da aplicação;
