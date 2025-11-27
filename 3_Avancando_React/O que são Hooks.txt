@@ -1,0 +1,15 @@
+HOOKS
+
+-Recursos do React que tem diversas funções, como:
+    - Guardar e alterar o estado de algum dado na nossa aplicação.
+
+-Todos os hooks começam com 'use', por exemplo: 'useState'.
+-Podemos criar os nossos hooks, isso é chamando de custom hook.
+-Os hooks precisam ser importados.
+-Geralmente são úteis em todas as aplicações.
+
+O hook de useState é um dos mais utilizados.
+Utilizamos para gerenciar o estado de algum dado, variáveis não funcionam corretamente, 
+o componente não re-renderiza.
+Para guardar o dado definimos o nome da variável e para alterar vamos utilizar setNome, onde
+nome é o nome do nosso dado.
